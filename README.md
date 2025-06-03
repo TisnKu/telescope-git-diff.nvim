@@ -3,6 +3,8 @@
 A [Telescope](https://github.com/nvim-telescope/telescope.nvim) extension for
 viewing the diffs for each file against a certain commit or ref.
 
+Fixed previewer. Original extension can only show preview of uncommitted changes.
+
 ## Setup
 
 To install the extension, do
